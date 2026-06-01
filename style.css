@@ -10,10 +10,7 @@ body {
     width:40%; 
     height:40%; 
 }
-footer{
-    background-color:#191717;
-    color:antiquewhite;
-}
+
 
 h1 {
     color:blue;
@@ -24,3 +21,7 @@ h1 {
  color:brown;
     
 } 
+footer{
+    background-color:#191717;
+    color:antiquewhite;
+}
