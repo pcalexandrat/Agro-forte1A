@@ -1,6 +1,17 @@
 @import url("style/header.css");
+html, body {
+    height: 100%;
+}
+
 body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     background-color: bisque;
+}
+
+main {
+    flex: 1;
 }
 
 
